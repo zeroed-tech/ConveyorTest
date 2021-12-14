@@ -1,0 +1,153 @@
+
+Sprites.png
+size: 512, 128
+format: RGBA8888
+filter: Nearest, Nearest
+repeat: none
+ConveyorBelt
+  rotate: false
+  xy: 68, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+ConveyorBelt
+  rotate: false
+  xy: 102, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+ConveyorBelt
+  rotate: false
+  xy: 136, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+ConveyorBelt
+  rotate: false
+  xy: 170, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+ConveyorBelt
+  rotate: false
+  xy: 238, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+ConveyorBelt
+  rotate: false
+  xy: 272, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+ConveyorBelt
+  rotate: false
+  xy: 306, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+ConveyorBelt
+  rotate: false
+  xy: 340, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+Extractor
+  rotate: false
+  xy: 2, 2
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+Nothing
+  rotate: false
+  xy: 2, 36
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+Range
+  rotate: false
+  xy: 68, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 3
+Range
+  rotate: false
+  xy: 102, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 10
+Range
+  rotate: false
+  xy: 136, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 8
+Range
+  rotate: false
+  xy: 170, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 5
+Range
+  rotate: false
+  xy: 204, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 2
+Range
+  rotate: false
+  xy: 238, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 7
+Range
+  rotate: false
+  xy: 272, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 4
+Range
+  rotate: false
+  xy: 306, 34
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 9
+Range
+  rotate: false
+  xy: 340, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 1
+Range
+  rotate: false
+  xy: 374, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: 6
+Resource
+  rotate: false
+  xy: 204, 68
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
